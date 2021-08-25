@@ -31,6 +31,6 @@ You will also see any lint errors in the console.
 
 ### Info
 This project is based on the tutorial of Web Dev Simplified.\
-The tutorial: [React Authentication Crash Course With Firebase And Routing](https://www.youtube.com/watch?v=PKwu15ldZ7k)
+The tutorial: [React Authentication Crash Course With Firebase And Routing](https://www.youtube.com/watch?v=PKwu15ldZ7k) \
 Original project: [WebDevSimplified React-Firebase-Auth](https://github.com/WebDevSimplified/React-Firebase-Auth)
 
